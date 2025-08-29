@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on **AI Projects & Web Development**
 - 📚 Exploring **Machine Learning, Deep Learning, and Django**
-- 🛠️ Strong in **Python, C++, SQL, Django, and React**
+- 🛠️ Strong in **Python, C++, SQL, Django**
 - 📄 Check my **[Resume](https://github.com/Vanshikagarwal1901/RESUME)**  
 
 ---
@@ -19,13 +19,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -42,11 +37,6 @@
 
 ---
 
-## 🏆 Achievements & Highlights
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vanshikagarwal1901&theme=tokyonight&no-frame=true&margin-w=15)
-
----
-
 ## 📂 Featured Projects
 🔹 [AI Chatbot](https://github.com/Vanshikagarwal1901/ai_chatbot) – Smart AI chatbot with text, voice, calendar, history & UI features.  
 🔹 [Credit Card Churn Prediction](https://github.com/Vanshikagarwal1901) – ML model predicting customer churn.  
@@ -56,9 +46,8 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-agarwal-5608a1282)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](avanshika190@gmail.com)  
 
 ---
 
